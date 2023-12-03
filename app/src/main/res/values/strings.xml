@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DateTimeDialogDemo</string>
+    <string name="date_amp_time_goes_here"><![CDATA[Date&Time Goes Here]]></string>
+</resources>
